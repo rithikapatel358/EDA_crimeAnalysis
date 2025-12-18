@@ -99,4 +99,3 @@ Aspiring Data Analyst | Python | EDA | SQL
 ---
 
 
-Just tell me 👍
